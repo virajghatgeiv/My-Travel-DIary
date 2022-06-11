@@ -1,0 +1,129 @@
+/* Index page and comman Style sheet */
+
+body{
+ position: relative;
+ margin: 0px;
+ background-color: #DFF6FF;
+}
+
+.navtab{
+ padding: 15px;
+ font-size: 24px;
+ color: white;
+}
+
+.imgTile{
+ padding: 30px;
+}
+
+.placeName{
+ margin: 0px;
+ padding: 10px;
+}
+
+.imgContainer{
+ background-color: white;
+}
+
+.glImg{
+ width: 500px;
+height: 300px;
+}
+
+#navbar{
+ position: fixed;
+ top: 0px;
+ width: 100%;
+ text-align: center;
+ padding: 20px;
+ background-color: #06283D;
+}
+
+#headContainer{
+ text-align: center;
+ margin-top: 60px;
+}
+
+#headImage{
+ width: 50%;
+ height: 500px;
+ 
+}
+
+#galleryTitle{
+ font-size: 24px;
+}
+
+#imgGallery{
+ text-align: center;
+}
+
+#imgContent{
+ margin-left:auto;
+ margin-right: auto;
+}
+
+/* Contact Page Style sheet */
+
+.inFilelds{
+ width: 80%;
+padding:20px ;
+margin-top: 40px;
+border-left: none;
+border-right: none ;
+border-top: none;
+
+}
+
+
+.bottomNav{
+font-size: 16px;
+
+}
+
+#formContainer{
+ margin: 100px;
+ text-align: center;
+ font-size: 24px;
+ }
+
+#formSt{
+ width: 25%;
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+ background-color: white;
+}
+
+#submit{
+ margin-top: 60px;
+ margin-bottom: 30px ;
+padding: 10px 20px;
+font-size: 16px;
+color: white;
+background-color: #06283D;
+}
+
+#footer{
+ 
+ width: 100%;
+ height: 150px;
+ background-color: #06283D ;
+ text-align: center;
+ padding: 30px;
+ position: fixed;
+ bottom: 0;
+}
+
+/* Know me Page Style sheet */
+
+.para{
+ padding: 0 60px;
+ line-height: 1.5;
+}
+
+#knowMe{
+ margin-top: 100px;
+ 
+}
+
